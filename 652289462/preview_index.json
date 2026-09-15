@@ -1,7 +1,7 @@
 {
   "qq_number": "3397712103",
   "group_number": "652289462",
-  "updated_at": "2026-09-15T12:01:58+00:00",
+  "updated_at": "2026-09-15T12:03:07+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -44,6 +44,13 @@
       "thumb": "夏日糕点脆无人.bdi_py_26_light_thumb.png",
       "full": "夏日糕点脆无人.bdi_py_26_light_thumb.png",
       "file_id": "13c595d961faac0ec427d5b311feac94"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "夏日糕点闷.bdi",
+      "thumb": "夏日糕点闷.bdi_py_26_light_thumb.png",
+      "full": "夏日糕点闷.bdi_py_26_light_thumb.png",
+      "file_id": "ce9a4df31249f4bc181acf16028dd348"
     }
   ]
 }
