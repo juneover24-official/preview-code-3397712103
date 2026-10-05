@@ -1,7 +1,7 @@
 {
   "qq_number": "3397712103",
   "group_number": "652289462",
-  "updated_at": "2026-10-05T11:39:37+00:00",
+  "updated_at": "2026-10-05T11:40:19+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -121,6 +121,13 @@
       "thumb": "雨天小狗闷脆人.bdi_py_26_light_thumb.png",
       "full": "雨天小狗闷脆人.bdi_py_26_light_thumb.png",
       "file_id": "20c7fca3be850e83aa75697ef325b5a0"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "雨天小狗闷脆.bdi",
+      "thumb": "雨天小狗闷脆.bdi_py_26_light_thumb.png",
+      "full": "雨天小狗闷脆.bdi_py_26_light_thumb.png",
+      "file_id": "5e0492b53a37c32f82316abb641152f8"
     }
   ]
 }
