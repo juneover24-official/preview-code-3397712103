@@ -1,7 +1,7 @@
 {
   "qq_number": "3397712103",
   "group_number": "1134289235",
-  "updated_at": "2026-11-01T09:48:49+00:00",
+  "updated_at": "2026-11-01T09:48:54+00:00",
   "skins": [
     {
       "name": "蛋蛋の蓝色Kitty",
@@ -85,6 +85,13 @@
       "file": "蛋蛋の蓝色Kitty普通版脆脆.bds",
       "thumb": "蛋蛋の蓝色Kitty普通版脆脆.bds_py_26_light_thumb.png",
       "full": "蛋蛋の蓝色Kitty普通版脆脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蛋蛋の蓝色Kitty",
+      "file": "蛋蛋の蓝色Kitty普通版脆脆_融合.bdi",
+      "thumb": "蛋蛋の蓝色Kitty普通版脆脆_融合.bdi_py_26_light_thumb.png",
+      "full": "蛋蛋の蓝色Kitty普通版脆脆_融合.bdi_py_26_light_thumb.png",
+      "file_id": "46795fec468fc43376dd411545324b68"
     }
   ]
 }
